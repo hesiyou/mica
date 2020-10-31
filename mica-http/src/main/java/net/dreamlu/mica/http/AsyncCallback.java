@@ -30,6 +30,7 @@ import java.io.IOException;
  */
 @ParametersAreNonnullByDefault
 public class AsyncCallback implements Callback {
+	//老子试一下
 	private final AsyncExchange exchange;
 
 	AsyncCallback(AsyncExchange exchange) {
